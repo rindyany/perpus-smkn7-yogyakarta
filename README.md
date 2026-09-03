@@ -4,8 +4,9 @@ Sistem Informasi Perpustakaan SMK Negeri 7 Yogyakarta adalah aplikasi berbasis w
 
 Aplikasi ini menyediakan fasilitas untuk mengelola data buku, pengguna, peminjaman, pengembalian, ulasan buku, serta berbagai aktivitas perpustakaan berdasarkan hak akses pengguna.
 
-> **Website:** https://perpustakaansmkn7yogyakarta.free.je/index.php,https://raw.githubusercontent.com/rindyany/perpus-smkn7-yogyakarta/refs/heads/main/Gemini_Generated_Image_7m5z4a7m5z4a7m5z.jpg,https://github.com/rindyany/perpus-smkn7-yogyakarta/blob/main/halaman%20awal.png
-
+> **Website:** https://perpustakaansmkn7yogyakarta.free.je/index.php
+> https://raw.githubusercontent.com/rindyany/perpus-smkn7-yogyakarta/refs/heads/main/Gemini_Generated_Image_7m5z4a7m5z4a7m5z.jpg
+> https://raw.githubusercontent.com/rindyany/perpus-smkn7-yogyakarta/refs/heads/main/halaman%20awal.png
 ---
 
 ## 🏫 Tentang SMK Negeri 7 Yogyakarta
