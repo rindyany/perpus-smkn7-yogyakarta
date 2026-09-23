@@ -7,7 +7,7 @@ Aplikasi ini menyediakan fasilitas untuk mengelola data buku, pengguna, peminjam
 > **Website:** https://perpustakaansmkn7yogyakarta.free.je/index.php
 >
 > 
-> https://raw.githubusercontent.com/rindyany/perpussmkn7yogyakarta/refs/heads/main/Gemini_Generated_Image_7m5z4a7m5z4a7m5z.jpg
+> https://github.com/rindyany/perpus-smkn7-yogyakarta/blob/main/Gemini_Generated_Image_7m5z4a7m5z4a7m5z.jpg
 >
 > 
 > https://raw.githubusercontent.com/rindyany/perpus-smkn7-yogyakarta/refs/heads/main/halaman%20awal.png
